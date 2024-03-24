@@ -13,4 +13,4 @@ update_on:
   - source: gitlab
     gitlab: World/amberol
     host: gitlab.gnome.org
-    use_latest_release: true
+    use_max_tag: true
