@@ -12,4 +12,4 @@ post_build_script: |
 update_on:
   - source: github
     github: lyswhut/lx-music-desktop
-    use_latest_tag: true
+    use_max_tag: true true
