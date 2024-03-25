@@ -3,7 +3,7 @@
 # Contributer: Bruce Zhang
 
 pkgname=lx-music
-pkgver=2.6.0
+pkgver=2.5.0
 pkgrel=1
 _electron=electron25 
 pkgdesc='An Electron-based music player'
