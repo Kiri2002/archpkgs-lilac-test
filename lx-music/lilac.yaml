@@ -10,6 +10,6 @@ post_build_script: |
   git_pkgbuild_commit()
 
 update_on:
-  - source: githab
-    githab: lyswhut/lx-music-desktop
+  - source: github
+    github: lyswhut/lx-music-desktop
     use_latest_tag: true
