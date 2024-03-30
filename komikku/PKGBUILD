@@ -54,7 +54,7 @@ makedepends=(gobject-introspection
              meson
              blueprint-compiler)
 optdepends=('org.freedesktop.secrets: store passwords safely')
-source=(${pkgname}-${pkgver}:"https://codeberg.org/$_author/$_gitname/archive/v$pkgver.tar.gz")
+source=(${pkgname}-${pkgver}::"https://codeberg.org/$_author/$_gitname/archive/v$pkgver.tar.gz")
 sha256sums=('8df5c718a26615646831db6450faeb685388a4bf874bb2695de5982138269ac0')
 
 build() {
